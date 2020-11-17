@@ -1,4 +1,4 @@
-# Exception-Handling
+# Coffee-Vending-Machine-Desicion
 
 A coffee vending machine makes 5 types of coffee:
 
