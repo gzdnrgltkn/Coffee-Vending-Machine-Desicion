@@ -10,7 +10,5 @@ Sample Input:
 7
 
 Sample Output:
-
-Invalid number
-
-Have a good day
+ Invalid number
+ Have a good day
